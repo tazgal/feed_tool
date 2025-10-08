@@ -1,4 +1,1 @@
 feedparser 
-BeautifulSoup
-datetime
-pandas
