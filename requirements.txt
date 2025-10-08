@@ -1,5 +1,4 @@
 feedparser 
 BeautifulSoup
-sqlite3
 datetime
 pandas
